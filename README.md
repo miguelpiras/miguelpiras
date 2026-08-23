@@ -1,4 +1,4 @@
-## about me
+### About Me
 
 - **Undergraduate:** IT Management (*Gestão de TI*) at **FATEC**
 - **Technical Background:** Systems Development (*Desenvolvimento de Sistemas*) by **ETEC**
@@ -18,7 +18,7 @@
 
 <br/>
 
-## tech stack & tools
+### Tech Stack & Tools
 
 <div align="left">
   <!-- languages -->
@@ -43,7 +43,7 @@
 
 <br/>
 
-## system stats
+### System Stats
 
 <div align="center">
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=miguelpiras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0a14&title_color=b388ff&icon_color=b388ff&text_color=ffffff" alt="GitHub Stats" />
@@ -56,7 +56,7 @@
 
 <br/>
 
-## connect
+### Connect
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-piras/" target="_blank">

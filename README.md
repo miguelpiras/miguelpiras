@@ -44,19 +44,12 @@
 
 <br/>
 
-<hr style="border: 1px solid #3c096c;" />
-
 ### Connect
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-piras/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=b388ff"/>
   </a>
-  <a href="mailto:miguelpiras08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=b388ff"/>
-  </a>
-</div>
-  
   <a href="mailto:miguelpiras08@gmail.com">
     <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=b388ff"/>
   </a>

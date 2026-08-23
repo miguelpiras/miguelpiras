@@ -1,14 +1,12 @@
 ### About Me
 
+- **Name:** Miguel Piras Córdoba
+- **Age:** 19
 - **Undergraduate:** IT Management (*Gestão de TI*) at **FATEC**
 - **Technical Background:** Systems Development (*Desenvolvimento de Sistemas*) by **ETEC**
 - **Core Focus:** Software Development, Hardware Architecture & IT Infrastructure
 - **Location:** São Paulo, Brazil
 - **Interests:** Digital art, system optimization & low-level hardware interactions
-
-<br/>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>
 

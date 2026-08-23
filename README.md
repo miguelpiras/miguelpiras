@@ -24,6 +24,7 @@
   <!-- languages -->
   <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=b388ff"/>
+  <img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/C%23-101010?style=for-the-badge&logo=csharp&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=b388ff"/>
   <br/>

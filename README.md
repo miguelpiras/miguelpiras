@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./assets/README_Visual_Kit.png" width="100%" alt="Header Banner" />
+  <!-- banner-->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0a14&height=180&section=header&text=Miguel%20Piras&fontSize=42&fontColor=b388ff&stroke=3c096c&strokeWidth=2&desc=%3C%20IT%20Management%20%7C%20Software%20%26%20Hardware%20/%3E&descFontSize=16&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <br/>
@@ -23,20 +24,20 @@
 ### Tech Stack & Tools
 
 <div align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=9d4edd&borderColor=3c096c"/>
-  <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=9d4edd&borderColor=3c096c"/>
-  <img src="https://img.shields.io/badge/C%23-101010?style=for-the-badge&logo=csharp&logoColor=9d4edd&borderColor=3c096c"/>
-  <img src="https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=9d4edd&borderColor=3c096c"/>
+  <!-- languages -->
+  <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=b388ff"/>
+  <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=b388ff"/>
+  <img src="https://img.shields.io/badge/C%23-101010?style=for-the-badge&logo=c-sharp&logoColor=b388ff"/>
+  <img src="https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=b388ff"/>
   <br/>
-  <!-- Front-end & Mobile -->
-  <img src="https://img.shields.io/badge/React_Native-101010?style=for-the-badge&logo=react&logoColor=9d4edd&borderColor=3c096c"/>
-  <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=9d4edd&borderColor=3c096c"/>
-  <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=9d4edd&borderColor=3c096c"/>
+  <!-- front-end & mobile -->
+  <img src="https://img.shields.io/badge/React_Native-101010?style=for-the-badge&logo=react&logoColor=b388ff"/>
+  <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=b388ff"/>
+  <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=b388ff"/>
   <br/>
-  <!-- Version Control & Tools -->
-  <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=9d4edd&borderColor=3c096c"/>
-  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=9d4edd&borderColor=3c096c"/>
+  <!-- tools -->
+  <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=b388ff"/>
+  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=b388ff"/>
 </div>
 
 ---
@@ -44,16 +45,8 @@
 ### System Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff"/>
-      </td>
-      <td>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff"/>
-      </td>
-    </tr>
-  </table>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=miguelpiras&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0a14&title_color=b388ff&icon_color=b388ff&text_color=ffffff" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpiras&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0a14&title_color=b388ff&text_color=ffffff" alt="Top Languages" />
 </div>
 
 ---
@@ -62,9 +55,9 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-piras/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=9d4edd&borderColor=3c096c"/>
+    <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=b388ff"/>
   </a>
-  <a href="mailto:miguelpiras08@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=9d4edd&borderColor=3c096c"/>
+  <a href="mailto:miguelpiras08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=b388ff"/>
   </a>
 </div>

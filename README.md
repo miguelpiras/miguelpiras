@@ -61,11 +61,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>
 <br/>
 
-## $\color{#b388ff}{\text{github activity}}$
+## Github Activity
 
 <div align="center">
   <!-- Gráfico de atividade roxo/preto (troque SEU_USUARIO_GITHUB) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=tokyonight&color=b388ff&line=b388ff&point=ffffff&area=true&hide_border=true&bg_color=0d0a14" alt="Github Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelpiras&theme=tokyonight&color=b388ff&line=b388ff&point=ffffff&area=true&hide_border=true&bg_color=0d0a14" alt="Github Activity Graph" />
 </div>
 
 ### Connect

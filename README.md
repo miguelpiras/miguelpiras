@@ -29,11 +29,13 @@
   <img src="https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=b388ff"/>
   <br/>
   <!-- front-end & mobile -->
+  <img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/React_Native-101010?style=for-the-badge&logo=react&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css&logoColor=b388ff"/>
   <br/>
   <!-- tools -->
+  <img src="https://img.shields.io/badge/Kanban-101010?style=for-the-badge&logo=trello&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=b388ff"/>
 </div>

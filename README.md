@@ -44,6 +44,23 @@
 
 <br/>
 
+### Connect
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/miguel-piras/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=b388ff"/>
+  </a>
+  <a href="mailto:miguelpiras08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=b388ff"/>
+  </a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>
+
+<br/>
+
 ### System Stats
 
 <div align="center">
@@ -57,10 +74,6 @@
 
 <br/>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>
-<br/>
-
 ## Github Activity
 
 <div align="center">
@@ -68,13 +81,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelpiras&theme=tokyonight&color=b388ff&line=b388ff&point=ffffff&area=true&hide_border=true&bg_color=0d0a14" alt="Github Activity Graph" />
 </div>
 
-### Connect
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/miguel-piras/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=b388ff"/>
-  </a>
-  <a href="mailto:miguelpiras08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=b388ff"/>
-  </a>
-</div>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>
+<br/>

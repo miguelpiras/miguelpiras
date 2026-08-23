@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="eebf391646f115e712d093e6bd8fd4b9 (1)" width="100%"/>
+<img src="eebf391646f115e712d093e6bd8fd4b9 (1).png" width="100%"/>
 
 <br/>
 

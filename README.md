@@ -1,4 +1,4 @@
-## $\color{#b388ff}{\text{about me}}$
+## $\color{#b388ff}{\text{About Me}}$
 
 - $\color{#b388ff}{\text{Undergraduate:}}$ IT Management (*Gestão de TI*) at **FATEC**
 - $\color{#b388ff}{\text{Technical Background:}}$ Systems Development (*Desenvolvimento de Sistemas*) by **ETEC**
@@ -18,7 +18,7 @@
 
 <br/>
 
-## $\color{#b388ff}{\text{tech stack and tools}}$
+## $\color{#b388ff}{\text{Tech Stack and Tools}}$
 
 <div align="left">
   <!-- languages -->
@@ -43,7 +43,7 @@
 
 <br/>
 
-## $\color{#b388ff}{\text{system stats}}$
+## $\color{#b388ff}{\text{System Stats}}$
 
 <div align="center">
   <!-- stats card com o mesmo roxo exato do perfil -->

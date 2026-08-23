@@ -1,10 +1,4 @@
-<div align="center">
-  <code>system.init() -> status: <strong>ONLINE</strong></code>
-</div>
-
-<hr style="border: 1px solid #3c096c;" />
-
-### $\color{#b388ff}{\text{about me}}$
+## $\color{#b388ff}{\text{about me}}$
 
 - $\color{#b388ff}{\text{Undergraduate:}}$ IT Management (*Gestão de TI*) at **FATEC**
 - $\color{#b388ff}{\text{Technical Background:}}$ Systems Development (*Desenvolvimento de Sistemas*) by **ETEC**
@@ -20,9 +14,11 @@
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>
 
-### $\color{#b388ff}{\text{tech stack \& tools}}$
+<br/>
+
+## $\color{#b388ff}{\text{tech stack and tools}}$
 
 <div align="left">
   <!-- languages -->
@@ -41,19 +37,27 @@
   <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=b388ff"/>
 </div>
 
----
+<br/>
 
-### $\color{#b388ff}{\text{system stats}}$
+<img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>
+
+<br/>
+
+## $\color{#b388ff}{\text{system stats}}$
 
 <div align="center">
-  <!-- stats card -->
+  <!-- stats card com o mesmo roxo exato do perfil -->
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=miguelpiras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0a14&title_color=b388ff&icon_color=b388ff&text_color=ffffff" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miguelpiras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0a14&title_color=b388ff&text_color=ffffff" alt="Top Languages" />
 </div>
 
----
+<br/>
 
-### $\color{#b388ff}{\text{connect}}$
+<img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>
+
+<br/>
+
+## $\color{#b388ff}{\text{connect}}$
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-piras/" target="_blank">

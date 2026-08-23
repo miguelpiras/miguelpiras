@@ -1,26 +1,28 @@
 <div align="center">
-  <img src="gitimage12.jpg" width="100%" alt="Header Banner" />
-</div>
-
-<br/>
-
-<div align="center">
   <code>system.init() -> status: <strong>ONLINE</strong></code>
 </div>
 
 <hr style="border: 1px solid #3c096c;" />
 
-### about me
+### $\color{#b388ff}{\text{about me}}$
 
-- **Undergraduate:** IT Management (*Gestão de TI*) at **FATEC**
-- **Technical Background:** Systems Development (*Desenvolvimento de Sistemas*) by **ETEC**
-- **Core Focus:** Software Development, Hardware Architecture & IT Infrastructure
-- **Location:** São Paulo, Brazil
-- **Interests:** Digital art, system optimization & low-level hardware interactions
+- $\color{#b388ff}{\text{Undergraduate:}}$ IT Management (*Gestão de TI*) at **FATEC**
+- $\color{#b388ff}{\text{Technical Background:}}$ Systems Development (*Desenvolvimento de Sistemas*) by **ETEC**
+- $\color{#b388ff}{\text{Core Focus:}}$ Software Development, Hardware Architecture & IT Infrastructure
+- $\color{#b388ff}{\text{Location:}}$ São Paulo, Brazil
+- $\color{#b388ff}{\text{Interests:}}$ Digital art, system optimization & low-level hardware interactions
+
+<br/>
+
+<div align="center">
+  <img src="gitimage12.jpg" width="100%" alt="Header Banner" />
+</div>
+
+<br/>
 
 ---
 
-### tech stack & tools
+### $\color{#b388ff}{\text{tech stack \& tools}}$
 
 <div align="left">
   <!-- languages -->
@@ -41,7 +43,7 @@
 
 ---
 
-### system stats
+### $\color{#b388ff}{\text{system stats}}$
 
 <div align="center">
   <!-- stats card -->
@@ -51,7 +53,7 @@
 
 ---
 
-### connect
+### $\color{#b388ff}{\text{connect}}$
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-piras/" target="_blank">

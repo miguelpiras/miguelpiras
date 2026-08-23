@@ -8,10 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="gitimage12.jpg" width="100%" alt="Header Banner" />
-</div>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>

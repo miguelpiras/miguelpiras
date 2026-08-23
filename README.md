@@ -61,10 +61,10 @@
 ### Connect
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-piras/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=9d4edd&borderColor=3c096c"/>
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:miguelpiras08@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=9d4edd&borderColor=3c096c"/>
   </a>
 </div>

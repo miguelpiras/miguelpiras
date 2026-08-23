@@ -8,6 +8,12 @@
 - **Location:** São Paulo, Brazil
 - **Interests:** Digital art, system optimization & low-level hardware interactions
 
+<br/>
+
+<img src="eebf391646f115e712d093e6bd8fd4b9 (1)" width="100%"/>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=b388ff&height=2&width=100%" width="100%"/>
 
 <br/>

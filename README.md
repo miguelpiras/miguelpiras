@@ -1,10 +1,10 @@
-## $\color{#b388ff}{\text{About Me}}$
+## about me
 
-- $\color{#b388ff}{\text{Undergraduate:}}$ IT Management (*Gestão de TI*) at **FATEC**
-- $\color{#b388ff}{\text{Technical Background:}}$ Systems Development (*Desenvolvimento de Sistemas*) by **ETEC**
-- $\color{#b388ff}{\text{Core Focus:}}$ Software Development, Hardware Architecture & IT Infrastructure
-- $\color{#b388ff}{\text{Location:}}$ São Paulo, Brazil
-- $\color{#b388ff}{\text{Interests:}}$ Digital art, system optimization & low-level hardware interactions
+- **Undergraduate:** IT Management (*Gestão de TI*) at **FATEC**
+- **Technical Background:** Systems Development (*Desenvolvimento de Sistemas*) by **ETEC**
+- **Core Focus:** Software Development, Hardware Architecture & IT Infrastructure
+- **Location:** São Paulo, Brazil
+- **Interests:** Digital art, system optimization & low-level hardware interactions
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-## $\color{#b388ff}{\text{Tech Stack and Tools}}$
+## tech stack & tools
 
 <div align="left">
   <!-- languages -->
@@ -43,10 +43,9 @@
 
 <br/>
 
-## $\color{#b388ff}{\text{System Stats}}$
+## system stats
 
 <div align="center">
-  <!-- stats card com o mesmo roxo exato do perfil -->
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=miguelpiras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0a14&title_color=b388ff&icon_color=b388ff&text_color=ffffff" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miguelpiras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0a14&title_color=b388ff&text_color=ffffff" alt="Top Languages" />
 </div>
@@ -57,7 +56,7 @@
 
 <br/>
 
-## $\color{#b388ff}{\text{connect}}$
+## connect
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-piras/" target="_blank">

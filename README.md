@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/C%23-101010?style=for-the-badge&logo=csharp&logoColor=b388ff"/>
   <img src="https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=b388ff"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-101010?style=for-the-badge&logo=cplusplus&logoColor=b388ff"/>
   <br/>
   <!-- front-end & mobile -->
   <img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=b388ff"/>
